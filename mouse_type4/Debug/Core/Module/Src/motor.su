@@ -1,0 +1,10 @@
+motor.c:22:6:Motor_Initialize	8	static
+motor.c:30:6:Motor_Stop	8	static
+motor.c:38:6:FAN_Motor_Initialize	8	static
+motor.c:43:6:FAN_Motor_Stop	8	static
+motor.c:47:6:Motor_SetDuty_Left	24	static
+motor.c:71:6:Motor_SetDuty_Right	24	static
+motor.c:95:6:FAN_Motor_Test	24	static
+motor.c:115:6:FAN_Motor_SetDuty	24	static
+motor.c:132:6:Suction_start	24	static
+motor.c:144:6:Suction_Stop	16	static

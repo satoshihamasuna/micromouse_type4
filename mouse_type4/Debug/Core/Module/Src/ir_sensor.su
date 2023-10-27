@@ -1,0 +1,9 @@
+ir_sensor.c:38:6:Sensor_TurnOffLED	16	static
+ir_sensor.c:46:6:Sensor_TurnOnLED	8	static
+ir_sensor.c:57:6:Sensor_Initialize	8	static
+ir_sensor.c:71:6:Sensor_StartADC	8	static
+ir_sensor.c:76:6:Sensor_StopADC	8	static
+ir_sensor.c:83:9:ADC_get_value	16	static
+ir_sensor.c:88:9:Sensor_GetValue	16	static
+ir_sensor.c:108:7:Sensor_CalcDistance	40	static
+ir_sensor.c:179:9:Sensor_GetBatteryValue	4	static

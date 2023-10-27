@@ -1,0 +1,4 @@
+search_run.c:12:6:search_straight_update_maze	72	static
+search_run.c:110:6:search_turn90_table_update_maze	40	static
+search_run.c:178:6:search_straight_update_maze_zenmen	72	static
+search_run.c:276:6:search_turn90_table_update_maze_zenmen	40	static

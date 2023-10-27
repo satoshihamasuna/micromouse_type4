@@ -1,0 +1,3 @@
+interface.c:14:6:Mode_Change_ENC	8	static
+interface.c:36:8:Mode_Start_photo_Sens	16	static
+interface.c:44:8:Button_Read	16	static

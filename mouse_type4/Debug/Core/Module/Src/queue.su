@@ -1,0 +1,9 @@
+queue.c:13:6:list_init	16	static
+queue.c:17:11:pop	24	static
+queue.c:24:6:push	24	static
+queue.c:30:6:swap	24	static
+queue.c:55:6:min_heapify	32	static
+queue.c:80:6:build_heap	24	static
+queue.c:86:11:heap_pop	24	static
+queue.c:96:6:heap_push	24	static
+queue.c:101:11:node_set	32	static

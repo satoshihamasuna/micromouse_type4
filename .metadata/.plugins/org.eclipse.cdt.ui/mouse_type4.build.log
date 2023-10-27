@@ -1,0 +1,20 @@
+17:35:19 **** Incremental Build of configuration Debug for project mouse_type4 ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F446xx -DDEBUG -c -I../Drivers/CMSIS/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Core/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I"C:/Users/sato1/Documents/git/mouse_type3/mouse_type4/mouse_type4/Core/Module/Inc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "mouse_type4.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\sato1\Documents\git\mouse_type3\mouse_type4\mouse_type4\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="mouse_type4.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: mouse_type4.elf
+ 
+arm-none-eabi-objdump -h -S  mouse_type4.elf  > "mouse_type4.list"
+arm-none-eabi-objcopy  -O binary  mouse_type4.elf  "mouse_type4.bin"
+arm-none-eabi-size   mouse_type4.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 133476	    504	 114744	 248724	  3cb94	mouse_type4.elf
+Finished building: default.size.stdout
+ 
+Finished building: mouse_type4.bin
+ 
+Finished building: mouse_type4.list
+ 
+
+17:35:21 Build Finished. 0 errors, 0 warnings. (took 2s.302ms)
+

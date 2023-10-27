@@ -1,0 +1,7 @@
+operation_check.c:10:6:slalom_check_R90	8	static
+operation_check.c:22:6:slalom_check_L90	8	static
+operation_check.c:35:6:slalom_fast_L90	8	static
+operation_check.c:48:6:fast_run_check	8	static
+operation_check.c:58:6:slalom_check	32	static
+operation_check.c:117:6:enkaigei	24	static
+operation_check.c:128:6:wall_controll_check	32	static

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;mouse_type4/Core/Module/Src/queue.c&apos;" deleteContents="false" description="Delete resource &apos;mouse_type4/Core/Module/Src/queue.c&apos;" element1="/mouse_type4/Core/Module/Src/queue.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1661662148219"/>
+</session>

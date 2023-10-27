@@ -1,0 +1,7 @@
+encoder.c:16:6:Encoder_Initialize	8	static
+encoder.c:23:6:Encoder_ResetPosition_Left	4	static
+encoder.c:27:6:Encoder_ResetPosition_Right	4	static
+encoder.c:31:10:Encoder_Counts_Left	4	static
+encoder.c:35:10:Encoder_Counts_Right	4	static
+encoder.c:39:9:Encoder_GetPosition_Right	4	static
+encoder.c:43:9:Encoder_GetPosition_Left	4	static

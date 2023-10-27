@@ -1,0 +1,2 @@
+kalman_filter.c:19:6:filter_init	4	static
+kalman_filter.c:32:7:calc_speed_filter	32	static

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="dummy"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="dummy"/>
+			<item value="dammy"/>
+			<item value="queue"/>
+			<item value="1000"/>
+			<item value="turn_time"/>
+			<item value="turn"/>
+			<item value="200"/>
+			<item value="target.rad_velo"/>
+			<item value="0.3"/>
+			<item value="zenmen"/>
+			<item value="maze_zenmen"/>
+			<item value="mypos"/>
+			<item value="0.6,0.5"/>
+			<item value="5.0,0.5"/>
+			<item value="1.20f"/>
+		</list>
+		<list key="replacehistory">
+			<item value="100"/>
+			<item value="maze "/>
+			<item value=" "/>
+			<item value="tmp_pos"/>
+			<item value="0.6,0.6"/>
+			<item value="5.0,0.6"/>
+			<item value="1.30f"/>
+			<item value="1300"/>
+			<item value="FAN_Motor_SetDuty(300);"/>
+			<item value="0.5"/>
+			<item value="1.20"/>
+			<item value="1200"/>
+			<item value="1000"/>
+			<item value="1.00f"/>
+			<item value="0.70f"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="699"/>
+		<item key="DIALOG_Y_ORIGIN" value="446"/>
+		<item key="DIALOG_WIDTH" value="283"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Yu Gothic UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Yu Gothic UI"/>
+	</section>
+</section>

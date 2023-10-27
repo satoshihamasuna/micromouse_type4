@@ -1,0 +1,10 @@
+indicator.c:11:6:Mode_LED	16	static
+indicator.c:20:6:Check_LED_Toggle	24	static
+indicator.c:28:6:Right_Side_On_LED	8	static
+indicator.c:33:6:Right_Side_Off_LED	8	static
+indicator.c:38:6:Left_Side_On_LED	8	static
+indicator.c:43:6:Left_Side_Off_LED	8	static
+indicator.c:48:6:Front_On_LED	8	static
+indicator.c:53:6:Front_Off_LED	8	static
+indicator.c:58:6:All_On_LED	8	static
+indicator.c:69:6:All_Off_LED	8	static

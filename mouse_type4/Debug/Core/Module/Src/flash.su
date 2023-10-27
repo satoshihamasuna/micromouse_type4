@@ -1,0 +1,9 @@
+flash.c:35:6:eraseALL	8	static
+flash.c:41:6:save_data	16	static
+flash.c:50:6:write_save_data	8	static
+flash.c:57:6:read_save_data	8	static
+flash.c:63:6:read_wall_flash	24	static
+flash.c:77:6:write_wall_flash	24	static
+flash.c:87:6:eraseFlash	32	static
+flash.c:106:6:writeFlash	24	static
+flash.c:121:6:loadFlash	24	static
